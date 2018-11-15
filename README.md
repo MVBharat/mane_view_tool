@@ -1,6 +1,6 @@
 # ManeViewTool
 
-> Various view specific methods for application I use.
+
 
 ## Installation
 
