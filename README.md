@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+	ManeViewTool::Renderer.copyright 'Bharat Mane', 'All rights reserved'
+```
 
 ## Development
 
